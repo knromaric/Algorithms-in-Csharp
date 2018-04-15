@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{C93AA6B0-C039-467C-8775-08E612E7A632}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerOfHanoi", "TowerOfHanoi\TowerOfHanoi.csproj", "{65E1A666-9E5C-490C-8E06-F2EBE7AAFAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveOfEratosthenes", "SieveOfEratosthenes\SieveOfEratosthenes.csproj", "{D794D860-4F89-43CF-B4BA-E47D67F02209}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{C93AA6B0-C039-467C-8775-08E612E7A632}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C93AA6B0-C039-467C-8775-08E612E7A632}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C93AA6B0-C039-467C-8775-08E612E7A632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65E1A666-9E5C-490C-8E06-F2EBE7AAFAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E1A666-9E5C-490C-8E06-F2EBE7AAFAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65E1A666-9E5C-490C-8E06-F2EBE7AAFAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65E1A666-9E5C-490C-8E06-F2EBE7AAFAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D794D860-4F89-43CF-B4BA-E47D67F02209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D794D860-4F89-43CF-B4BA-E47D67F02209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D794D860-4F89-43CF-B4BA-E47D67F02209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D794D860-4F89-43CF-B4BA-E47D67F02209}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
