@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SieveOfEratosthenes", "Siev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoShuMagicSquare", "LoShuMagicSquare\LoShuMagicSquare.csproj", "{C1573DD6-FD9B-49E6-9FDD-F363677D486C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollOfDice", "RollOfDice\RollOfDice.csproj", "{2F3C536F-61B2-4BD9-BDD1-CDCC1C4D1EB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C1573DD6-FD9B-49E6-9FDD-F363677D486C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1573DD6-FD9B-49E6-9FDD-F363677D486C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1573DD6-FD9B-49E6-9FDD-F363677D486C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F3C536F-61B2-4BD9-BDD1-CDCC1C4D1EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F3C536F-61B2-4BD9-BDD1-CDCC1C4D1EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F3C536F-61B2-4BD9-BDD1-CDCC1C4D1EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F3C536F-61B2-4BD9-BDD1-CDCC1C4D1EB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
