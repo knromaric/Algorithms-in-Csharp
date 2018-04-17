@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoShuMagicSquare", "LoShuMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollOfDice", "RollOfDice\RollOfDice.csproj", "{2F3C536F-61B2-4BD9-BDD1-CDCC1C4D1EB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfCraps", "GameOfCraps\GameOfCraps.csproj", "{6C6A6B95-1FC3-48D9-A564-70FC68A02E66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{2F3C536F-61B2-4BD9-BDD1-CDCC1C4D1EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F3C536F-61B2-4BD9-BDD1-CDCC1C4D1EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F3C536F-61B2-4BD9-BDD1-CDCC1C4D1EB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6A6B95-1FC3-48D9-A564-70FC68A02E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6A6B95-1FC3-48D9-A564-70FC68A02E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6A6B95-1FC3-48D9-A564-70FC68A02E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6A6B95-1FC3-48D9-A564-70FC68A02E66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
