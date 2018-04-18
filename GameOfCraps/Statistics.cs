@@ -42,7 +42,6 @@ namespace GameOfCraps
         public void DisplayStatistics()
         {
             double probability;
-            double avg;
             for (int i = 0; i < 21; i++)
             {
                 if(i == 21)
